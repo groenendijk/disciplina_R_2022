@@ -1,4 +1,4 @@
-##### Exerc?cios Aula 2 - Dataframes ###
+##### Exercícios Aula 2 - Dataframes ###
 
 #### Exercicio 1 - Dados e distribuições #####
 
