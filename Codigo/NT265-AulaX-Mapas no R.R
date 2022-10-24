@@ -1,7 +1,7 @@
 #### R Mapas ###
 #### WD e pacotes #### 
 rm(list = ls()) #limpa tudo
-setwd("C:\\Users\\Peter\\OneDrive - Universidade Estadual de Campinas\\Documents\\Disciplinas\\NT265 - R e gráficos\\2020\\DisciplinaR_UNICAMP\\Codigo") 
+setwd("C:\\...\\Codigo") 
 
 install.packages("tidyverse") # coloquem os nomes dos pacotes aqui para instalar
 
